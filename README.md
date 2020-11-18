@@ -1,2 +1,3 @@
 # codewars
-A collection of coding challenges and solutions from CodeWars.
+
+A collection of coding challenges/katas and solutions from CodeWars.
