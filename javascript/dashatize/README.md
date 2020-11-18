@@ -4,5 +4,5 @@ Given a number, return a string with dash'-'marks before and after each odd inte
 
 Ex:
 
-      dashatize(274) -> '2-7-4'
-      dashatize(6815) -> '68-1-5'
+    dashatize(274) -> '2-7-4'
+    dashatize(6815) -> '68-1-5'
