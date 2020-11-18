@@ -10,7 +10,7 @@ Given an array/list [] of integers, find the maximum difference between the succ
 ## Notes
 
 - Array/list size is at least 3 .
-- Array/list's numbers Will be mixture of positives and negatives also zeros\_
+- Array/list's numbers Will be mixture of positives and negatives also zeros
 - Repetition of numbers in the array/list could occur.
 - The Maximum Gap is computed Regardless the sign.
 
@@ -40,4 +40,4 @@ Note: Regardless the sign of negativity.
 **Explanation:**
 The Maximum Gap after sorting the array is 576 , The difference between | 64 - 640 | = 576 .
 
-Note : Regardless the sign of negativity.
+Note: Regardless the sign of negativity.
