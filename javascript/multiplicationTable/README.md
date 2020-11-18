@@ -1,40 +1,26 @@
 # Multiplication Table
 
-https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08
+- [Link to CodeWars kata](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
+- [Return to Table of Contents](https://github.com/alex-whan/codewars)
 
-Task
-Given an array/list [] of integers , Construct a product array Of same size Such That prod[i] is equal to The Product of all the elements of Arr[] except Arr[i].
+## Task
 
-Notes
-Array/list size is at least 2 .
+Create an `NxN` multiplication table, of size provided in parameter `size`.
 
-Array/list's numbers Will be only Positives
+**Example:**
 
-Repetition of numbers in the array/list could occur.
+For example, when given `size` is `3`, the table should be conceptualized as follows:
 
-Input >> Output Examples
-productArray ({12,20}) ==> return {20,12}
-Explanation:
-The first element in prod [] array 12 is the product of all array's elements except the first element
+    1 2 3
+    2 4 6
+    3 6 9
 
-The second element 20 is the product of all array's elements except the second element .
+For this example, the return value should be:
 
-productArray ({1,5,2}) ==> return {10,2,5}
-Explanation:
-The first element 10 is the product of all array's elements except the first element \*1\*\*\*
+    [[1,2,3],[2,4,6],[3,6,9]]
 
-The second element 2 is the product of all array's elements except the second element 5
+OR:
 
-The Third element 5 is the product of all array's elements except the Third element 2.
-
-productArray ({10,3,5,6,2}) return ==> {180,600,360,300,900}
-Explanation:
-The first element 180 is the product of all array's elements except the first element 10
-
-The second element 600 is the product of all array's elements except the second element 3
-
-The Third element 360 is the product of all array's elements except the third element 5
-
-The Fourth element 300 is the product of all array's elements except the fourth element 6
-
-Finally ,The Fifth element 900 is the product of all array's elements except the fifth element 2
+    [[1,2,3],
+    [2,4,6],
+    [3,6,9]]
