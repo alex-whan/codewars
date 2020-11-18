@@ -1,4 +1,6 @@
-# Product Array
+# Multiplication Table
+
+https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08
 
 Task
 Given an array/list [] of integers , Construct a product array Of same size Such That prod[i] is equal to The Product of all the elements of Arr[] except Arr[i].
