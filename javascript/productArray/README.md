@@ -1,5 +1,6 @@
 # Product Array
 
+- ### **[LINK TO CODE](./product-array.js)**
 - [Link to CodeWars kata](https://www.codewars.com/kata/5a905c2157c562994900009d)
 - [Return to Table of Contents](https://github.com/alex-whan/codewars)
 

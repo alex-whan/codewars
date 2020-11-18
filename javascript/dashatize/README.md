@@ -1,5 +1,6 @@
 # Dashatize It
 
+- ### **[LINK TO CODE](./dashatize.js)**
 - [Link to CodeWars kata](https://www.codewars.com/kata/58223370aef9fc03fd000071)
 - [Return to Table of Contents](https://github.com/alex-whan/codewars)
 

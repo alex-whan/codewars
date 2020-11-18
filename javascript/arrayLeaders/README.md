@@ -1,5 +1,6 @@
 # Array Leaders
 
+- ### **[LINK TO CODE](./array-leaders.js)**
 - [Link to CodeWars kata](https://www.codewars.com/kata/5a651865fd56cb55760000e0)
 - [Return to Table of Contents](https://github.com/alex-whan/codewars)
 

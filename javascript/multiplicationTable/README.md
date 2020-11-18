@@ -1,5 +1,6 @@
 # Multiplication Table
 
+- ### **[LINK TO CODE](./multiplication-table.js)**
 - [Link to CodeWars kata](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 - [Return to Table of Contents](https://github.com/alex-whan/codewars)
 

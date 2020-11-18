@@ -1,5 +1,6 @@
 # Maximum Gap
 
+- ### **[LINK TO CODE](./maximum-gap.js)**
 - [Link to CodeWars kata](https://www.codewars.com/kata/5a7893ef0025e9eb50000013)
 - [Return to Table of Contents](https://github.com/alex-whan/codewars)
 
