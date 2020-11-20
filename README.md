@@ -13,3 +13,4 @@ A collection of coding challenges/katas and solutions from CodeWars.
 - [Product Array](./javascript/productArray)
 - [Dashatize It](./javascript/dashatize)
 - [Multiplication Table](./javascript/multiplicationTable)
+- [Create Phone Number](./javascript/createPhoneNumber)
