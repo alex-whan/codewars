@@ -1,4 +1,4 @@
-const isPangram = string => {
+const detectPangram = string => {
   const alphabet = 'abcdefghijklmnopqrstuvwxyz';
   let count = 0;
   for (let letter of alphabet) {
