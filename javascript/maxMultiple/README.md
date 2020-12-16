@@ -6,9 +6,18 @@
 
 ## Task
 
-A pangram is a sentence that contains every single letter of the alphabet at least once. For example, the sentence `"The quick brown fox jumps over the lazy dog"` is a pangram, because it uses the letters A-Z at least once (case is irrelevant).
+Given a `Divisor` and a `Bound`, find the largest integer `N`, such that:
 
-Given a string, detect whether or not it is a pangram. Return `True` if it is, `False` if not. Ignore numbers and punctuation.
+- `N` is divisible by divisor.
+
+- `N` is less than or equal to bound.
+
+- `N` is greater than 0.
+
+## Notes
+
+- The parameters (`divisor`, `bound`) passed to the function are only positive values.
+- The divisor is guaranteed to be found.
 
 ## Input >> Output Examples
 
